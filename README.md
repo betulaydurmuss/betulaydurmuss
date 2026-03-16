@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Betülay Durmuş</h1>
-<h3 align="center">Cybersecurity Enthusiast | CTI Researcher | Go Developer</h3>
+<h3 align="center">Cybersecurity Enthusiast | CTI Researcher | Go Developer | Computr Engineering Student</h3>
 
 <p align="center">
 Threat Intelligence • OSINT • Backend Development
