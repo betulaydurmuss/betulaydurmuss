@@ -75,20 +75,6 @@ Developed a **UDP Hole Punching based P2P tunneling system in Go** with NAT trav
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=betulaydurmuss&theme=tokyo-night"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/betulaydurmuss/betulaydurmuss/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🌐 Connect With Me
 
 💼 LinkedIn  
