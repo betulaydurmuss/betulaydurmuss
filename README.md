@@ -11,6 +11,7 @@ Threat Intelligence • OSINT • Backend Development
 
 - 🎓 Computer Engineering Student
 - 🔐 Interested in **Cybersecurity & Cyber Threat Intelligence**
+- ⭐ Member of **Siber Vatan – Yıldız CTI Team**
 - 🕵️ Focused on **OSINT, Dark Web Intelligence**
 - 💻 Backend developer using **Go**
 - 🛡 Member of **Siber Vatan Cybersecurity Program**
@@ -60,6 +61,14 @@ Akbank Cyber Security Analyst Program
 **Software Developer Intern – Deepreo**
 
 Developed a **UDP Hole Punching based P2P tunneling system in Go** with NAT traversal support.
+
+**Cyber Threat Intelligence Analyst – Yıldız CTI Team**  
+Siber Vatan Cybersecurity Program
+
+- Threat actor analysis
+- MITRE ATT&CK mapping
+- CTI research and intelligence reporting
+- Dark web and OSINT monitoring
 
 ---
 
