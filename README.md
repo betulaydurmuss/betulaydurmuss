@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast | CTI Researcher | Go Developer</h3>
 
 <p align="center">
-Threat Intelligence • Reverse Engineering • OSINT • Backend Development
+Threat Intelligence • OSINT • Backend Development
 </p>
 
 ---
