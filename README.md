@@ -63,16 +63,6 @@ Developed a **UDP Hole Punching based P2P tunneling system in Go** with NAT trav
 
 ---
 
-## 📜 Certifications
-
-- Certified Associate Penetration Tester (CAPT)
-- Cyber Threat Intelligence 101
-- Cisco Introduction to Cybersecurity
-- Cisco Introduction to IoT
-- Industrial Networking Essentials
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
