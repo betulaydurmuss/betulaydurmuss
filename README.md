@@ -11,7 +11,7 @@ Threat Intelligence • OSINT • Backend Development
 
 - 🎓 Computer Engineering Student
 - 🔐 Interested in **Cybersecurity & Cyber Threat Intelligence**
-- 🕵️ Focused on **OSINT, Dark Web Intelligence and Reverse Engineering**
+- 🕵️ Focused on **OSINT, Dark Web Intelligence**
 - 💻 Backend developer using **Go**
 - 🛡 Member of **Siber Vatan Cybersecurity Program**
 
