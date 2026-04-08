@@ -7,33 +7,11 @@ Threat Intelligence • OSINT • Backend Development
 
 ---
 
-## 🧠 About Me
-
-- 🎓 Computer Engineering Student
-- 🔐 Interested in **Cybersecurity & Cyber Threat Intelligence**
-- ⭐ Member of **Siber Vatan – Yıldız CTI Team**
-- 🕵️ Focused on **OSINT, Dark Web Intelligence**
-- 💻 Backend developer using **Go**
-- 🛡 Member of **Siber Vatan Cybersecurity Program**
-
----
-
 ## ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=go,python,linux,docker,git,github,postgresql" />
 </p>
-
----
-
-## 🔐 Cybersecurity Interests
-
-- Cyber Threat Intelligence (CTI)
-- Reverse Engineering
-- Web Security
-- OSINT & Dark Web Intelligence
-- Vulnerability Research
-- Threat Actor Analysis (MITRE ATT&CK)
 
 ---
 
@@ -69,18 +47,6 @@ Siber Vatan Cybersecurity Program
 - MITRE ATT&CK mapping
 - CTI research and intelligence reporting
 - Dark web and OSINT monitoring
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=betulaydurmuss&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betulaydurmuss&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
