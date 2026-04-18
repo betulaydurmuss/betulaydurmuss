@@ -15,22 +15,6 @@ Threat Intelligence • OSINT • Backend Development
 
 ---
 
-## 🚀 Projects
-
-### 🔎 Deep Watch
-Multi-platform **OSINT data collection system** built with Go.
-
-### 🌐 Web Scraper
-Automation tool using **chromedp and colly** for rendered HTML extraction and data collection.
-
-### 🕸️ THOR Scraper
-Tor-based **dark web intelligence collection system**.
-
-### 🧠 Interactive Scraper
-Full-stack **Threat Intelligence platform** using Go, PostgreSQL, Docker and TOR.
-
----
-
 ## 🏢 Experience
 
 **Cyber Security Analyst Trainee**  
