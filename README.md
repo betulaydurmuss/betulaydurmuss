@@ -22,8 +22,6 @@ Akbank Cyber Security Analyst Program
 
 **Software Developer Intern – Deepreo**
 
-Developed a **UDP Hole Punching based P2P tunneling system in Go** with NAT traversal support.
-
 **Cyber Threat Intelligence Analyst – Yıldız CTI Team**  
 Siber Vatan Cybersecurity Program
 
