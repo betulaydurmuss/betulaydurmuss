@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋 I'm Betülay Durmuş</h1>
-<h3 align="center">Cybersecurity Enthusiast | CTI Researcher | Go Developer | Computer Engineering Student</h3>
+<h3 align="center"> CTI Analist | Developer | Computer Engineering Student</h3>
 
-<p align="center">
-Threat Intelligence • OSINT • Backend Development
-</p>
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,python,linux,docker,git,github,postgresql" />
+<img src="https://skillicons.dev/icons?i=go,python,linux,docker,git,github," />
 </p>
 
 ---
@@ -20,7 +17,7 @@ Threat Intelligence • OSINT • Backend Development
 **Cyber Security Analyst Trainee**  
 Akbank Cyber Security Analyst Program
 
-**Software Developer Intern – Deepreo**
+**Software Developer Intern – Deepreo Siber Güvenlik**
 
 **Cyber Threat Intelligence Analyst – Yıldız CTI Team**  
 Siber Vatan Cybersecurity Program
