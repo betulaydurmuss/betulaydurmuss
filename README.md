@@ -14,9 +14,6 @@
 
 ## 🏢 Experience
 
-**Cyber Security Analyst Trainee**  
-Akbank Cyber Security Analyst Program
-
 **Software Developer Intern – Deepreo Siber Güvenlik**
 
 **Cyber Threat Intelligence Analyst – Yıldız CTI Team**  
