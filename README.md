@@ -11,7 +11,6 @@
   <a href="mailto:betulaydurmuss@icloud.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=betulaydurmuss&style=for-the-badge&color=0A66C2&label=Profile+Views" alt="Profile views" />
 </p>
 
 <br>
@@ -93,16 +92,3 @@ Final-year Computer Engineering student working at the intersection of **cyber t
 **Student** — *Siber Vatan Cybersecurity Program* · 2024 – Present
 
 <br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=betulaydurmuss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betulaydurmuss&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
-
-<p align="center">
-  <i>Always curious about what's happening on the other side of the packet.</i>
-</p>
