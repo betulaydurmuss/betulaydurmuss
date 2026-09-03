@@ -16,7 +16,7 @@
 
 <br>
 
-## 🧠 About Me
+## About Me
 
 Final-year Computer Engineering student working at the intersection of **cyber threat intelligence** and **software development**. I profile threat actors, map their behavior to MITRE ATT&CK, and build the OSINT / dark web collection tooling my team uses day to day — mostly in Go.
 
